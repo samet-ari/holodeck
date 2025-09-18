@@ -91,6 +91,4 @@ Consultez le [Guide d'Installation Complet](docs/guide-installation.md) pour les
 - **spock** / VulcanLogic123!
 - **samet** / Holodeck2025!
 
-## 🛠️ Scripts de Maintenance
-
 ```bash
