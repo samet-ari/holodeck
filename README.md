@@ -1,4 +1,4 @@
-# 🚀 Holodeck : Infrastructure de Développement Web Starfleet
+# 🚀 Holodeck : Infrastructure de Développement Web
 
 [![Debian](https://img.shields.io/badge/OS-Debian%2012-red.svg)](https://www.debian.org/)
 [![Nginx](https://img.shields.io/badge/Serveur-Nginx-green.svg)](https://nginx.org/)
