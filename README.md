@@ -9,7 +9,7 @@ Infrastructure de développement web de niveau entreprise conçue pour les ingé
 
 ## 📋 Aperçu du Projet
 
-Le projet Holodeck est une infrastructure virtualisée complète qui permet aux ingénieurs de développer et tester des sites web stellaires dans un environnement sécurisé et professionnel.
+Le projet Holodeck est une infrastructure virtualisée complète qui permet aux ingénieurs de développer et tester des sites "web stellaires" dans un environnement sécurisé et professionnel.
 
 ### Architecture Système
 - **VM Serveur** : Debian 12 sans interface graphique (2GB RAM, 2 vCPU, 32GB)
