@@ -70,7 +70,6 @@ Consultez le [Guide d'Installation Complet](docs/guide-installation.md) pour les
 - **[Guide d'Installation](docs/guide-installation.md)** - Procédure complète d'installation
 - **[Guide Utilisateur](docs/guide-utilisateur.md)** - Instructions d'utilisation
 - **[Dépannage](docs/depannage.md)** - Solutions aux problèmes courants
-- **[Export VM](docs/export-vm.md)** - Procédures de sauvegarde et export
 
 ## 🔐 Informations d'Accès
 
