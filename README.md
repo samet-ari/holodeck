@@ -47,6 +47,8 @@ Le projet Holodeck est une infrastructure virtualisée complète qui permet aux 
 | phpMyAdmin | https://php.starfleet.lan | Interface de gestion BDD |
 | Administration | https://admin.starfleet.lan | Webmin système |
 | Développement | https://vscore.starfleet.lan | VS Code Server |
+| Dashboard Holodeck | https://dashboard.starfleet.lan | Interface de monitoring centralisée |
+
 
 ## 🚀 Installation Rapide
 
